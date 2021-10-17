@@ -1,0 +1,4 @@
+map_name: NewYork
+games:
+- {game_name: GangLandNYC, file_name: GangLandNYC.xml}
+version: 0
